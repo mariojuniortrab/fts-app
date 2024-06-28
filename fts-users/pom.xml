@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fts</groupId>
-	<artifactId>fts-user</artifactId>
+	<artifactId>fts-users</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fts-user</name>
+	<name>fts-users</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
